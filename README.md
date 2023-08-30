@@ -40,6 +40,6 @@ The project is implemented using C programming language features:
 
 ## Contributors
 
-- [Your Name](https://github.com/Talha-Shahid12)
+- [Talha Shahid](https://github.com/Talha-Shahid12)
 
 ---
